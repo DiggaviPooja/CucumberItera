@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="MyAccount-Login Feature" skipped="0" tests="2" time="27.78" timestamp="2021-09-01 07:24:59"><testcase name="TC01_Log-in with valid username and password"><failure message="expected:&lt;true&gt; but was:&lt;false&gt;" type="java.lang.AssertionError">expected:&lt;true&gt; but was:&lt;false&gt;</failure><system-err>expected:&lt;true&gt; but was:&lt;false&gt;&#13;
+steps.MyAccountLoginSteps.verifyUserLogin(MyAccountLoginSteps.java:83)&#13;
+stepdefs.MyAccountLoginStepDefinitions.user_must_successfully_login_to_the_web_page(MyAccountLoginStepDefinitions.java:54)&#13;
+✽.User must successfully login to the web page(file:///P:/Practice/Prcatice1/P2-PavanTrainingCucumber/src/test/resources/features/MyAccount_Login.feature:12)&#13;
+</system-err></testcase><testcase name="TC02_DATATABLE example"><failure message="expected:&lt;true&gt; but was:&lt;false&gt;" type="java.lang.AssertionError">expected:&lt;true&gt; but was:&lt;false&gt;</failure><system-err>expected:&lt;true&gt; but was:&lt;false&gt;&#13;
+steps.MyAccountLoginSteps.verifyUserLogin(MyAccountLoginSteps.java:83)&#13;
+stepdefs.MyAccountLoginStepDefinitions.user_must_successfully_login_to_the_web_page(MyAccountLoginStepDefinitions.java:54)&#13;
+✽.User must successfully login to the web page(file:///P:/Practice/Prcatice1/P2-PavanTrainingCucumber/src/test/resources/features/MyAccount_Login.feature:31)&#13;
+</system-err></testcase></testsuite>

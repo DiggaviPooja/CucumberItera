@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: MyAccount-Login Feature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 28.145 s <<< FAILURE! - in MyAccount-Login Feature
+MyAccount-Login Feature.TC01_Log-in with valid username and password  Time elapsed: 14.955 s  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+
+MyAccount-Login Feature.TC02_DATATABLE example  Time elapsed: 13.009 s  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+

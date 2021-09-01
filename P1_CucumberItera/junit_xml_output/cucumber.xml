@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="51.581">
+<testcase classname="MyAccount-Login Feature" name="TC01_Log-in with valid username and password" time="37.567">
+<system-out><![CDATA[Given Open the browser......................................................passed
+When User Enter the URL "http://practice.automationtesting.in/".............passed
+And Click on My Account Menu................................................passed
+And Enter registered username and password..................................passed
+And Click on login button...................................................passed
+Then User must successfully login to the web page...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="MyAccount-Login Feature" name="TC02_DATATABLE example" time="13.612">
+<system-out><![CDATA[Given Open the browser......................................................passed
+When User Enter the URL.....................................................passed
+And Click on My Account Menu................................................passed
+And user enters registered username and password............................passed
+And Click on login button...................................................passed
+Then User must successfully login to the web page...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
